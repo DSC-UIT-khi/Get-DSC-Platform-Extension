@@ -1,4 +1,2 @@
-# Add your GitHub Username and DSC Platform Link.
-### You'll be added into private Repository by username to access the Code:)
-1) (rawheel, https://dsc.community.dev/usman-institute-of-technology/)
-2) (coolguytw, https://dsc.community.dev/national-dong-hwa-university-hualien-university-of-education/)
+# Get the repository here:
+https://github.com/DSC-UIT-khi/DSC-Platform-Extension
